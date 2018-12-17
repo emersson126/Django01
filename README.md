@@ -1,2 +1,0 @@
-# Django01
-#EmerssonMendoza
